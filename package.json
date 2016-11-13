@@ -1,6 +1,9 @@
 {
+  "dependencies": {
+    "gotpl": "^4.3.1"
+  },
   "name": "jstransformer-gotpl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GoTpl support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -8,9 +11,6 @@
   "files": [
     "index.js"
   ],
-  "dependencies": {
-    "gotpl": "^4.3.1"
-  },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
   },
