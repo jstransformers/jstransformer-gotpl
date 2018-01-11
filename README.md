@@ -1,7 +1,5 @@
 # jstransformer-gotpl
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-gotpl.svg)](https://greenkeeper.io/)
-
 [GoTpl](https://github.com/Lanfei/GoTpl) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-gotpl/master.svg)](https://travis-ci.org/jstransformers/jstransformer-gotpl)
