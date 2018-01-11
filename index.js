@@ -1,6 +1,6 @@
 'use strict'
 
-var gotpl = require('gotpl')
+const gotpl = require('gotpl')
 
 exports.name = 'gotpl'
 exports.outputFormat = 'html'

@@ -3,7 +3,7 @@
     "gotpl": "^5.0.1"
   },
   "name": "jstransformer-gotpl",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "GoTpl support for JSTransformers.",
   "keywords": [
     "jstransformer"
