@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "gotpl": "^7.0.0"
+    "gotpl": "^8.0.0"
   },
   "name": "jstransformer-gotpl",
   "version": "1.0.0",
